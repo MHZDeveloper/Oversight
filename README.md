@@ -112,7 +112,7 @@ In the file **Siem.py**, the model will predict if the network is safe or not ba
  
 # ELK Setup
 
-Now the ElasticSearch,Logstash and Kibana stack are basically a collection of web applications that needs to communicate information to eachother. To assure that this ecosystem runs in the best conditions there is, we chose to deploy this stack on docker containers . 
+Now the ElasticSearch,Logstash and Kibana stack are basically a collection of web applications that needs to communicate information to each other. To assure that this ecosystem runs in the best conditions, there is we chose to deploy this stack on docker containers . 
 
 #### First Step
 
@@ -199,7 +199,7 @@ The import widget will open up , then click on import again , you'll be asked to
     go to the project directory **(~/Workspace/Siem/ELK/docker-elk/elasticsearch/config/)** and choose **"export.ndjson"**.
     Make sure the **"automatically overwrite all saved objects"** option is **enabled** , and then click on the bottom left blue "Import" Button 
 
-Now that we have the dashboards configured , go ahead and click on the "Dashboard" option in the left menu and choose **"Oversight Dashboard"**, then choose the "This Week" filter and apply it .  
+Now that we have the dashboards configured , go ahead and click on the "Dashboard" option in the left menu and choose **"Oversight Dashboard"**, then choose the **"This Week"** filter and apply it .  
 
 # Execution
 
