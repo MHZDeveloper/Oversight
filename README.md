@@ -183,7 +183,7 @@ Now we check the health of our elk stack , to do this we need to type the follow
              
 #### Fifth Step  
 
-Now we can open the Kibana dashbord , in order to do this , go to your internet browser and type the following address (**This should display the Kibana login page , now user the username "elastic" and the password "changeme" to access the dashboard .**):
+Now we can open the Kibana dashboard , in order to do this , go to your internet browser and type the following address (**This should display the Kibana login page , now user the username "elastic" and the password "changeme" to access the dashboard .**):
 
         http://localhost:5601
          
