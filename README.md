@@ -108,7 +108,7 @@ Versions used in this workshop :
 In the file **ModelCreation.py**, you'll find how to create a model trained by the [Dataset](https://drive.google.com/open?id=1WEzi6vXPSq9HzrYfg7V0kKFtvKkuoazZ)
 20 times.
 
-In the file **Siem.py**, the model will predict the if the network is safe based on users logs.
+In the file **Siem.py**, the model will predict if the network is safe or not based on users logs.
  
 # ELK Setup
 
